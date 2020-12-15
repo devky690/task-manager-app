@@ -1,0 +1,11 @@
+.position{
+    display: flex;
+    flex-direction: column;
+    width: 20%; 
+}
+.main{
+    background:white;
+    color: lightgreen;
+    border-radius: 10px;
+}
+
