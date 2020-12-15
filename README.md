@@ -11,7 +11,8 @@ in an external terminal. Navigate to `http://localhost:4200/`. The app will auto
 
 ## Running Server 
 
-Run `npm run server` to start the backend from vscode
+Run `npm run server` to start the backend from vscode. Be sure to install nodemon by running the command 
+npm install nodemon in vscode
 
 ## Testing Api
 
