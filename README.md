@@ -8,6 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Run this command
 in an external terminal. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files. 
+Also be sure to run `npm install` as well.
 
 ## Running Server 
 
